@@ -1,4 +1,4 @@
-# GIS2_FinalProject
+# GIS2 Final Project
 
 ## Author
 
