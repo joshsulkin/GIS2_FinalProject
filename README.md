@@ -1,4 +1,4 @@
-# GIS2 Final Project
+# Militarized Modernization: Internal Colonization and the Making of Modern France
 
 ## Author
 
